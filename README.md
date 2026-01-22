@@ -34,3 +34,6 @@ The analysis uses simulated panel data to illustrate econometric techniques in a
 ## Reproducibility
 Scripts are numbered and can be run independently.  
 Each script loads data, estimates models, and reports results.
+## Interpretation Notes
+The simulated data is generated from a known data-generating process, allowing comparison between estimated and true parameters. Differences across OLS, fixed effects, DiD, and IV estimates illustrate the consequences of unobserved heterogeneity and endogeneity in applied research.
+
